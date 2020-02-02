@@ -1,0 +1,14 @@
+npm i -g gulp
+npm init
+
+npm i --save-dev gulp 
+
+npm i browser-sync --save-dev
+
+npm i --save-dev gulp-sass
+npm i --save-dev gulp-coffee
+npm i --save-dev gulp-concat
+npm i --save-dev gulp-uglify
+npm i --save-dev gulp-imagemin
+npm i --save-dev gulp-sourcemaps
+npm i --save-dev del
