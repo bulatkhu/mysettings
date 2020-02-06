@@ -1,0 +1,114 @@
+.hide {
+  display: none; }
+
+.roulette {
+  border-radius: 10px;
+  font-family: sans-serif;
+  min-width: 550px;
+  min-height: 500px;
+  background-color: #40484b;
+  margin-top: 50px;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; }
+  .roulette-player {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    margin-bottom: 10px; }
+    .roulette-player img {
+      margin-right: 10px; }
+    .roulette-player__score {
+      float: right; }
+  .roulette__arrow {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 170px;
+    right: -20px;
+    transform: rotate(138deg);
+    background: url("img/roulette_arrow.png") no-repeat;
+    background-size: cover; }
+  .roulette__img {
+    display: inline-block;
+    margin-right: 30px;
+    position: relative;
+    z-index: 1; }
+  .roulette-buttons {
+    display: inline-block;
+    margin-top: 60px; }
+    .roulette-buttons__text {
+      color: white; }
+    .roulette-buttons__button {
+      width: 95px;
+      text-align: center;
+      padding: 15px;
+      border: none;
+      color: white;
+      border-radius: 10px; }
+    .roulette-buttons__winner {
+      margin: 10px 0 10px 0;
+      padding: 20px 0 20px 20px;
+      background-color: #19343F;
+      color: white;
+      border-radius: 10px; }
+  .roulette-balance {
+    border-radius: 10px;
+    padding: 15px;
+    background-color: grey;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; }
+    .roulette-balance__append {
+      background-color: #F49A38;
+      border: none;
+      border-radius: 10px;
+      padding: 10px 15px 10px 10px; }
+
+.btn-black {
+  background-color: black; }
+.btn-green {
+  background-color: #409E3F; }
+.btn-red {
+  background-color: #CB2E25; }
+
+.input {
+  display: block;
+  padding: 15px;
+  border: none;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  width: 295px;
+  position: relative; }
+
+.bg-red {
+  background-color: #CB2E25; }
+.bg-green {
+  background-color: #409E3F; }
+.bg-black {
+  background-color: black; }
+
+.wrapper {
+  display: flex;
+  align-items: center; }
+
+.won-number {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  font-size: 55px;
+  position: absolute;
+  top: 49.4%;
+  left: 50.2%;
+  transform: translateX(-50%) translateY(-50%);
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  background-color: #FDE52A; }
+
+/*# sourceMappingURL=style.css.map */

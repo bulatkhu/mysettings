@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+  <title>Title</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="css/bootstrap.css">
+</head>
+<body>
+
+  <div class="container">
+    <div class="roulette">
+      <div class="row justify-content-center">
+        <div class="col-8 col-md-6">
+          <div class="roulette__img">
+            <img id="role-circle" style="transform: rotate(0deg)" src="img/bonus-roulette-v2.png" alt="roulette circle">
+            <div id="won-number" class="won-number">12</div>
+            <div class="roulette__arrow" id="arrow"></div>
+          </div>
+        </div>
+        <div class="col-8 col-md-5">
+          <div class="roulette-buttons">
+            <div class="roulette-balance">
+              <div class="roulette-balance__info">Ваш баланс: <span id="balance">12</span> монет</div>
+              <button class="roulette-balance__append">Пополнить</button>
+            </div>
+            <p class="roulette-buttons__text">Поставить на:</p>
+            <form action="#">
+              <input type="number" class="input" id="coins">
+              <button class="roulette-buttons__button btn-red">Красное<span id="pointRed"></span></button>
+              <button class="roulette-buttons__button btn-green">Зеленое<span id="pointGreen"></span></button>
+              <button class="roulette-buttons__button btn-black">Черное<span id="pointBlack"></span></button>
+            </form>
+            <div class="roulette-buttons__winner hide">Поздравляю, твой выиграл: <span id="win"></span></div>
+          </div>
+        </div>
+        <div class="col-12 col-md-4">
+          <div class="roulette-party-red">
+            <div class="bg-red roulette-buttons__winner">Красное <span id="bids-red"></span></div>
+
+          </div>
+        </div>
+        <div class="col-12 col-md-4">
+          <div class="roulette-party-green">
+            <div class="bg-green roulette-buttons__winner">Зеленое <span id="bids-green"></span></div>
+
+        </div>
+        </div>
+        <div class="col-12 col-md-4">
+          <div class="roulette-party-black">
+            <div class="bg-black roulette-buttons__winner">Черное <span id="bids-black"></span></div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="main.js"></script>
+</body>
+</html>
