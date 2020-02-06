@@ -69,8 +69,6 @@ setInterval(() => {
 
   const clearVal = ranVal - 2880
 
-  winNumber(clearVal)
-
   setTimeout(() => {
     $circle.style.transition = ''
     $circle.style.transform = `rotate(${clearVal}deg)`
