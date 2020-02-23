@@ -1,0 +1,44 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="12.13.1" last-modified="1574144430000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="255-37-112-255,,,84-65-97-255,,,255-255-255-255,,,213-199-255-255,,,0-210-255-255,,,0-0-0-255,,,255-60-41-255,,,47-52-63-255,,,76-37-31-255,,,64-72-75-255,,,0-150-136-255,,,66-165-245-255,,,82-100-130-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.60067874" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileColorsForProjectViewEnabled" value="true" />
+    <property name="FileColorsForTabsEnabled" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="InstalledPluginsSearchHistory" value="express&#10;expres&#10;expre&#10;expr&#10;exp" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="17" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="0" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="1" />
+    <property name="KEYMAP" value="close" />
+    <property name="MarketplacePluginsSearchHistory" value="express&#10;icons&#10;auto import&#10;auto impor&#10;auto impo" />
+    <property name="SettingsSearchHistory" value="comment&#10;use soft wraps&#10;soft wrap&#10;gene&#10;view" />
+    <property name="ShowDocumentationInToolWindow" value="true" />
+    <property name="WebStorm.disableSafeWrite" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="disable.forced.soft.wraps.notification" value="true" />
+    <property name="evlsprt.192" value="16f3d304904" />
+    <property name="evlsprt2.192" value="16ee07dd71f" />
+    <property name="evlsprt3.192" value="18" />
+    <property name="evlsprt3.193" value="12" />
+    <property name="file.chooser.recent.files" value="E:/Projects/js-anki&#10;E:/Projects/html&#10;E:/Projects/my-application&#10;E:/Projects/js-application&#10;C:/Users/admin/Desktop&#10;C:/Users/admin/Desktop/dog_handler/src/assets/sass/blocks&#10;C:/Users/admin/Desktop/Git-Projects/examples-/html-css&#10;C:/Ruby26-x64/bin/sass.bat&#10;C:/Users/admin/Desktop/Git-Projects/examples-/html-css/flexblocks/some-example&#10;C:/Users/admin/Desktop/Git-Projects/examples-&#10;C:/Users/admin/Desktop/Git-Projects/examples-/Javascript 04.11,19/learn-javascript/webstorm/HTML-CSS/05-maket/css&#10;C:/Users/admin/Desktop/Git-Projects/examples-/Javascript 04.11,19/learn-javascript/webstorm/design&#10;C:/Users/admin/Desktop/Git-Projects/examples-/Javascript 04.11,19/learn-javascript/webstorm&#10;C:/Users/admin/Desktop/Javascript 04.11,19/learn-javascript/Без названия-3" />
+    <property name="file.gist.reindex.count" value="18212" />
+    <property name="fileTypeChangedCounter" value="36" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="js.chrome.debugger.port.98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" value="62796" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="selected.color.option.type" value="JS.LINE_COMMENT" />
+    <property name="settings.code.style.selected.tab.HTML" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Code Generation" />
+    <property name="settings.code.style.selected.tab.TypeScript" value="Tabs and Indents" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.7.2" />
+  </component>
+</application>

@@ -1,0 +1,3 @@
+com.arcticicestudio.nord.jetbrains
+com.fernandojimenez.mattecarbon.theme
+com.samdark.intellij-visual-studio-code-dark-plus

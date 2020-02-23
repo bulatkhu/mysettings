@@ -1,0 +1,90 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="792" y="421" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="962" y="433" />
+    <location key="SettingsEditor.0.0.1920.1080@120dpi" x="184" y="0" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080@120dpi" x="818" y="270" />
+    <location key="search.everywhere.popup.0.0.1920.1080@120dpi" x="749" y="423" />
+    <location key="#Notifications.0.0.1920.1080@120dpi" x="742" y="183" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080@120dpi" x="275" y="0" />
+    <location key="SettingsEditor.0.0.1920.1080@168dpi" x="365" y="95" />
+    <location key="SettingsEditor.0.0.1920.1080" x="69" y="112" />
+    <location key="search.everywhere.popup.0.0.1920.1080" x="1103" y="233" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080" x="1201" y="410" />
+    <location key="#Notifications.0.0.1920.1080" x="1032" y="186" />
+    <location key="RollbackChangesDialog.0.0.1920.1080" x="429" y="279" />
+    <location key="EditFileWatcherDialog.0.0.1920.1080" x="704" y="299" />
+    <location key="#File_Watchers.0.0.1920.1080" x="1030" y="181" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080" x="176" y="38" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="622" y="461" />
+    <location key="scopes.0.0.1920.1080" x="973" y="292" />
+    <location key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.0.0.1920.1080" x="864" y="442" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.0.0.1920.1080" x="239" y="269" />
+    <location key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1.0.0.1920.1080" x="526" y="603" />
+    <location key="#com.intellij.ide.macro.MacrosDialog.0.0.1920.1080" x="848" y="338" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="828" y="349" />
+    <location key="#Libraries.0.0.1920.1080" x="141" y="356" />
+    <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1920.1080" x="1160" y="676" />
+    <location key="#Inspections.0.0.1920.1080" x="141" y="356" />
+    <size key="SettingsEditor.0.0.1920.1080@120dpi" width="1141" height="883" />
+    <size key="search.everywhere.popup.0.0.1920.1080@120dpi" width="999" height="174" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="602" height="141" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="602" height="141" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="602" height="141" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="602" height="141" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080@120dpi" width="602" height="141" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080@120dpi" width="602" height="141" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080@120dpi" width="602" height="141" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080@120dpi" width="602" height="141" />
+    <size key="GridCell.Tab.2.left.0.0.1920.1080@120dpi" width="602" height="141" />
+    <size key="GridCell.Tab.2.center.0.0.1920.1080@120dpi" width="602" height="141" />
+    <size key="GridCell.Tab.2.right.0.0.1920.1080@120dpi" width="602" height="141" />
+    <size key="GridCell.Tab.2.bottom.0.0.1920.1080@120dpi" width="602" height="141" />
+    <size key="GridCell.Tab.3.left.0.0.1920.1080@120dpi" width="602" height="141" />
+    <size key="GridCell.Tab.3.center.0.0.1920.1080@120dpi" width="602" height="141" />
+    <size key="GridCell.Tab.3.right.0.0.1920.1080@120dpi" width="602" height="141" />
+    <size key="GridCell.Tab.3.bottom.0.0.1920.1080@120dpi" width="602" height="141" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="764" height="140" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="764" height="140" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="764" height="140" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="764" height="140" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="955" height="247" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="955" height="247" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="955" height="247" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="955" height="247" />
+    <size key="GridCell.Tab.2.left.0.0.1920.1080" width="955" height="247" />
+    <size key="GridCell.Tab.2.center.0.0.1920.1080" width="955" height="247" />
+    <size key="GridCell.Tab.2.right.0.0.1920.1080" width="955" height="247" />
+    <size key="GridCell.Tab.2.bottom.0.0.1920.1080" width="955" height="247" />
+    <size key="GridCell.Tab.3.left.0.0.1920.1080" width="958" height="8" />
+    <size key="GridCell.Tab.3.center.0.0.1920.1080" width="958" height="8" />
+    <size key="GridCell.Tab.3.right.0.0.1920.1080" width="958" height="8" />
+    <size key="GridCell.Tab.3.bottom.0.0.1920.1080" width="958" height="8" />
+    <size key="search.everywhere.popup.0.0.1920.1080" width="672" height="678" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1022" height="852" />
+    <size key="EditFileWatcherDialog.0.0.1920.1080" width="729" height="670" />
+  </component>
+  <component name="WindowManager">
+    <frame x="727" y="244" width="967" height="694" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="1320" y="56" width="549" height="732" key="dock-window-1" />
+    <state x="1320" y="56" width="549" height="732" key="dock-window-1/1920.1080" />
+    <state x="1320" y="56" width="549" height="732" key="dock-window-1@1920.1080" />
+    <state x="1028" y="295" width="814" height="795" key="dock-window-1@1920.1080@120dpi" />
+  </component>
+</application>
