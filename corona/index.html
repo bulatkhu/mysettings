@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+  <meta property="og:url"           content="http://localhost:63342/corona/index.html" />
+  <meta property="og:type"          content="website" />
+  <meta property="og:title"         content="Your Website Title" />
+  <meta property="og:description"   content="Your description" />
+  <meta property="og:image"         content="https://www.your-domain.com/path/image.jpg" />
+  <title>Title</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="container">
+  <div class="navbar">
+    <div class="navbar-menu">
+      <a href="#" class="menu-btn">
+        <span class="menu-btn__burger"></span>
+      </a>
+
+      <div class="menu-choose">
+        <div class="outlay">
+          <a href="#" class="outlay-link">
+            Самоізоляція
+            <span class="outlay-dropper"></span>
+          </a>
+          <div class="outlay-menu">
+            <a href="#" class="outlay link">
+              <span class="link__text">Небо</span>
+            </a>
+            <a href="#" class="outlay link">
+              <span class="link__text">Вода</span>
+            </a>
+            <a href="#" class="outlay link">
+              <span class="link__text">Природа</span>
+            </a>
+          </div>
+        </div>
+        <div class="menu-megafon"><img src="./img/megafon.png" alt="убрать звук" class="menu-megafon__shouter"></div>
+      </div>
+    </div>
+  </div>
+
+  <h1 class="main-title">ДО КІНЦЯ КАРАНТИНУ ЗАЛИШИЛОСЯ</h1>
+
+  <div class="timer">
+    <div class="timer-days timer-date">
+      <span class="days">24</span>
+      <!-- /.days -->
+      <span class="descr">днi</span>
+      <!-- /.descr -->
+    </div>
+    <!-- /.timer-days -->
+    <div class="timer-years timer-date">
+      <span class="timer-year__number hours">21</span>
+      <!-- /.years -->
+      <span class="descr">год</span>
+      <!-- /.descr -->
+    </div>
+    <!-- /.timer-years -->
+    <div class="timer-years timer-date">
+      <span class="timer-year__number mins">21</span>
+      <!-- /.years -->
+      <span class="descr">хв.</span>
+      <!-- /.descr -->
+    </div>
+    <!-- /.timer-years -->
+    <div class="timer-years timer-date">
+      <span class="timer-year__number secs">49</span>
+      <!-- /.years -->
+      <span class="descr">сек.</span>
+      <!-- /.descr -->
+    </div>
+    <!-- /.timer-years -->
+  </div>
+  <!-- /.timer -->
+
+  <div class="statistic">
+    <div class="statistic-text"><span class="statistic-text__descr">виявлено:</span>
+      <!-- /.statistic-text__descr --><span class="statistic-text__revealed">650</span>
+      <!-- /.statistic-text__revealed --></div>
+    <!-- /.statistic-text -->
+    <div class="statistic-text"><span class="statistic-text__descr">загинуло: </span>
+      <!-- /.statistic-text__descr --><span class="statistic-text__died">17</span>
+      <!-- /.statistic-text__revealed --></div>
+    <!-- /.statistic-text -->
+    <div class="statistic-text"><span class="statistic-text__descr">одужало: </span>
+      <!-- /.statistic-text__descr --><span class="statistic-text__recovered">8</span>
+      <!-- /.statistic-text__revealed --></div>
+    <!-- /.statistic-text -->
+    <div class="statistic-text"><span class="statistic-text__descr">хворіє: </span>
+      <!-- /.statistic-text__descr --><span class="statistic-text__sick">528</span>
+      <!-- /.statistic-text__revealed --></div>
+    <!-- /.statistic-text -->
+    <div class="statistic-text"><span class="statistic-text__descr">підозри: </span>
+      <!-- /.statistic-text__descr --><span class="statistic-text__suspect">3178</span>
+      <!-- /.statistic-text__revealed --></div>
+    <!-- /.statistic-text -->
+  </div>
+  <!-- /.statistic -->
+
+  <div class="contacts-descr">
+    <p class="contacts-descr__text">Лайкніть та поділіться, якщо залишаєтесь вдома</p>
+    <div class="contacts-buttons">
+      <div id="fb-root"></div>
+      <script async defer crossorigin="anonymous"
+              src="https://connect.facebook.net/ua_UA/sdk.js#xfbml=1&version=v6.0"></script>
+      <script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "https://connect.facebook.net/ua_UA/sdk.js#xfbml=1&version=v3.0";
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
+
+      <div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-width="" data-layout="button_count" data-action="like" data-size="large" data-share="false"></div>
+      <!-- Your share button code -->
+      <div class="fb-share-button"
+           data-size="large"
+           data-href="https://www.your-domain.com/your-page.html"
+           data-layout="button_count">
+      </div>
+
+      <div class="twitter-btn">
+        <a class="twitter-share-button"
+           data-size="large"
+           href="https://twitter.com/intent/tweet">
+          Tweet</a>
+        <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+      </div>
+      </div>
+    </div>
+</div>
+<script src="js/index.js"></script>
+</body onload="time()">
+</html>
